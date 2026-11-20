@@ -84,7 +84,7 @@ It can be used for activities such as:
 - **JOHNNY:** https://drive.google.com/drive/u/0/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
 - **NWPCRACKER:** https://networkwalks.com/password-cracker/
 - **NW HASH CALCULATOR:** https://networkwalks.com/hash-calculator/
-
+- **PDF HASH EXTRACTOR:** https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 ---
 
 # 👤 Author
